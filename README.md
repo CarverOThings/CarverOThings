@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarverOThings
 - 👀 I’m interested in making a website to generate randomized templates for spoon carving. And diversify my skills professionally.
-- 🌱 I’m currently learning C and PHP!
+- 🌱 I’m currently earning my Bachelors in Cybersecurity and learning C and PHP!
 - 💞️ I’m looking to collaborate on anything. 
 - 📫 How to reach me adahywoodcraft@gmail.com
 
