@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm currently deep diving into the world of cybers
 
 ### 🌟 About Me
 
-- 🔍 **Main Interest:** Vulnerability research and secure coding practices. I believe ther are innovative solutions to modern threats.
+- 🔍 **Main Interest:** Vulnerability research and secure coding practices. I believe there are innovative solutions to modern threats.
 - 🐧 **Tech Preference:** A proud Linux enthusiast, with Fedora being my go-to choice. I appreciate its robustness and flexibility.
 - 🛠️ **Current Endeavors:** Working on several personal projects that challenge me and expand my skills in cybersecurity and software development.
 - 📖 **Continuous Learning:** Always eager to learn more and stay updated with the latest trends and technologies in cybersecurity.
